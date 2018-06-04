@@ -23,3 +23,4 @@ input:focus, select:focus, textarea:focus {
 
 #fnBox:focus:invalid, #lnBox:focus:invalid, #addBox:focus:invalid, #mailBox:focus:invalid, #phoneBox:focus:invalid, #idBox:focus:invalid {
     background: rgb(255,232,232) url(cg_invalid.png) top right no-repeat;
+}   
